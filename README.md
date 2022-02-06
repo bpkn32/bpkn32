@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @bpkn32
-- 👀 I’m interested in all branches of data science and machine learning
-- 🌱 I’m currently learning how to make data science projects from scratch
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello there, I'm Berk Pişkin :wave:
+- :man_technologist: For 1-2 years I have been researching and learning data science by myself.
+- 👀 I’m interested in all branches/applications of data science and machine learning
+- 🌱 Currently I'm a participant of Kodluyoruz #KodlaDönüştürelim & Carbon Consulting Data Science Bootcamp.
+- 📫 Feel free to conctact me from : berkpiskin.a@gmail.com
 
 <!---
 bpkn32/bpkn32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
